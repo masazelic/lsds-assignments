@@ -1,0 +1,10 @@
+# Modify this file for pip installed packages
+# one package per line
+pandas
+numpy
+sklearn
+plotly
+matplotlib
+scipy
+yellowbrick
+causalimpact
